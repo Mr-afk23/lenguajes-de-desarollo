@@ -1,0 +1,54 @@
+.seccion1{
+    padding: 48px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.texto{
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+color: #486284;
+
+
+
+}
+.titulo1{
+    font-size:24px;
+    color: #486284;
+    font-family: 'Sans', sans-serif;
+
+   
+}
+
+.descripcion{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #8CA2C0;
+  
+    
+    
+}
+
+.btn1{
+    width: 100%;
+    border: 1px solid  #486284;
+    border-radius: 30px;
+    padding: 20px;
+    margin-top: 20px;
+
+    font-size: 16px;
+    color:  #486284;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+
+
+
+
+    
+
